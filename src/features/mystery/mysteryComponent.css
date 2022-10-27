@@ -1,0 +1,13 @@
+.default__mystery {
+  border: 2px solid green;
+  display: flex;
+  flex-direction: row;
+}
+
+.mystery--icon {
+  border: 2px solid violet;
+}
+
+.mystery-size--large {
+  width: 300px;
+}
